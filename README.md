@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryderhung
 - 👀 I’m interested in coding and maths.
 - 🌱 I’m currently learning scala and html.
-- 💞️ I’m looking to collaborate on nanomaterials-related projects.
+- 💞️ I’m looking to collaborate on quantum-related projects.
 - 📫 How to reach me: https://github.com/ryderhung.
 
 <!---
