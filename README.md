@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ryderhung
-- 👀 I’m interested in coding and maths.
-- 🌱 I’m currently learning scala and html.
-- 💞️ I’m looking to collaborate on quantum-related projects.
+- 👋 Hi, I’m Hung Doan.
+- 👀 I’m interested in full-stack development, specializing in front-end.
+- 🌱 I’m currently learning back-end coding skills
+- 💞️ I’m looking to collaborate on building and maintaining web applications.
 - 📫 How to reach me: https://github.com/ryderhung.
 
 <!---
